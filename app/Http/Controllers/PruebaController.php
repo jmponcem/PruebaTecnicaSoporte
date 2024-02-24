@@ -14,7 +14,7 @@ class PruebaController extends Controller
         $aplicante = [
             'puntos' => 0,
             'nivel' => 1,
-            'nombre' => 'Jhon Doe',
+            'nombre' => 'Jose Ponce',
             'aprobado' => false
         ];
         while ($aplicante['nivel'] < 10) {
